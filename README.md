@@ -6,31 +6,17 @@
 
 # 🌟 About Me
 
-
-
 🎓 3rd Year B.Tech CSE Student passionate about Software Engineering
-
-
 
 💻 MERN Stack Developer focused on building scalable and user-friendly applications
 
-
-
 🧠 Strong foundation in Data Structures & Algorithms with regular problem-solving practice
-
-
 
 🤖 Exploring AI, Cloud Technologies, and modern development workflows
 
-
-
 🌱 Adaptive learner who enjoys building, learning, and continuously improving
 
-
-
 🚀 Open to Internship Opportunities and Open Source Contributions
-
-
 
 ---
 
@@ -41,11 +27,7 @@
 ---
 # 🛠️ Tech Stack
 
-
-
 ### 💻 Programming Languages
-
-
 
 <p>
 
@@ -53,11 +35,7 @@
 
 </p>
 
-
-
 ### 🎨 Frontend Development
-
-
 
 <p>
 
@@ -65,11 +43,7 @@
 
 </p>
 
-
-
 ### ⚙️ Backend Development
-
-
 
 <p>
 
@@ -77,11 +51,7 @@
 
 </p>
 
-
-
 ### 🗄️ Databases
-
-
 
 <p>
 
@@ -89,11 +59,7 @@
 
 </p>
 
-
-
 ### ☁️ Cloud & Deployment
-
-
 
 <p>
 
@@ -101,11 +67,7 @@
 
 </p>
 
-
-
 ### 🧰 Tools & Platforms
-
-
 
 <p>
 
@@ -113,11 +75,7 @@
 
 </p>
 
-
-
 ### 🚀 Deployment & Hosting
-
-
 
 * Render
 
@@ -125,20 +83,13 @@
 
 * Azure
 
-
-
 ### 🤖 AI Tools
-
-
 
 * ChatGPT
 
 * Gemini
 
 * Perplexity
-
-
-
 ---
 
 ## 🌟 Current Goals
@@ -170,7 +121,6 @@
 </p>
 
 ---
-
 
 ## 🌍 Vision & Impact
 
